@@ -4,4 +4,4 @@ resources:
 
 images:
   - name: deepaks374/html-app
-    newTag: v5
+    newTag: v6
