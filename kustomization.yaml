@@ -3,5 +3,5 @@ resources:
   - service.yaml
 
 images:
-  - name: deepaks374/html-app
+  - name: vamckumar/html-app
     newTag: v9
