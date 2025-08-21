@@ -4,4 +4,4 @@ resources:
 
 images:
   - name: vamckumar/html-app
-    newTag: v9
+    newTag: latest
